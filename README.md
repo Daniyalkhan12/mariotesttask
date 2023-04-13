@@ -1,0 +1,1 @@
+After Downloading The Project Please Opne Project In Visual Studio Code And opne Terminal And type "npm install" to Download All dependency and After that type "npm start" to start the project 
